@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AmbaStudio/static/css/main.0cddbccb.css",
+    "main.js": "/AmbaStudio/static/js/main.278247f2.js",
+    "static/js/787.32bad3e0.chunk.js": "/AmbaStudio/static/js/787.32bad3e0.chunk.js",
+    "static/media/img-3.png": "/AmbaStudio/static/media/img-3.ef4915ab3a6bdea401d5.png",
+    "static/media/contact.jpg": "/AmbaStudio/static/media/contact.459805326e1678c6b35d.jpg",
+    "static/media/img1.jpg": "/AmbaStudio/static/media/img1.b4234773f7cd11e7dc3f.jpg",
+    "static/media/img3.jpg": "/AmbaStudio/static/media/img3.ba6a53d7355678569406.jpg",
+    "static/media/img--2.jpg": "/AmbaStudio/static/media/img--2.041deaccd5db1b4daf95.jpg",
+    "static/media/img-2.jpg": "/AmbaStudio/static/media/img-2.b2e8a82cf66418b15e29.jpg",
+    "static/media/img-1.jpg": "/AmbaStudio/static/media/img-1.6537cee21d132d4ece2b.jpg",
+    "index.html": "/AmbaStudio/index.html",
+    "main.0cddbccb.css.map": "/AmbaStudio/static/css/main.0cddbccb.css.map",
+    "main.278247f2.js.map": "/AmbaStudio/static/js/main.278247f2.js.map",
+    "787.32bad3e0.chunk.js.map": "/AmbaStudio/static/js/787.32bad3e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cddbccb.css",
+    "static/js/main.278247f2.js"
+  ]
+}
