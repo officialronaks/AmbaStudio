@@ -1,5 +1,6 @@
 {
   "name": "ambastudio",
+   "homepage": "https://Ambastudio.github.io/AmbaStudio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
