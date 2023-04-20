@@ -18,10 +18,10 @@ function App() {
     <BrowserRouter>
         <Routes>
           <Route exact path="/AmbaStudio" element={<Home/>} />
-          <Route exact path="/AmbaStudio/contactus" element={<Contactus/>} />
-          <Route exact path="/AmbaStudio/login" element={<Login/>} />
-          <Route exact path="/AmbaStudio/signup" element={<Signup/>} />
-          <Route exact path="/AmbaStudio/page" element={<Page/>}/>
+          <Route exact path="/contactus" element={<Contactus/>} />
+          <Route exact path="/login" element={<Login/>} />
+          <Route exact path="/signup" element={<Signup/>} />
+          <Route exact path="/page" element={<Page/>}/>
         </Routes>
     </BrowserRouter>
     </div>
