@@ -18,7 +18,7 @@ function App() {
     <BrowserRouter>
         <Routes>
           <Route exact path="/" element={<Home/>} />
-          <Route exact path="/contactus" element={<Contactus/>} />
+          <Route exact path="https://officialronaks.github.io/AmbaStudio/contactus" element={<Contactus/>} />
           <Route exact path="/login" element={<Login/>} />
           <Route exact path="/signup" element={<Signup/>} />
           <Route exact path="/page" element={<Page/>}/>
